@@ -28,6 +28,11 @@ body {
     height: 100%;
 }
 
+.forside img {
+    width: 30%;
+    height: 30%;
+}
+
 
 /* Navigation */
 
